@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-label="Ibuki's Playground. Go, apps, games and experiments.">
+  <rect width="1200" height="430" fill="#fff8e8"/>
+  <path d="M33 18 H1164 Q1180 18 1180 36 V387 Q1180 409 1157 409 H36 Q20 409 20 391 V39 Q20 18 33 18Z" fill="#92def4" stroke="#204983" stroke-width="7"/>
+  <path d="M31 331 L1170 331 L1170 393 Q1170 399 1154 399 H39Z" fill="#fff2cd"/>
+  <path d="M56 80 L785 80" stroke="#fff8e8" stroke-width="2.5" stroke-dasharray="8 10" opacity=".6"/>
+  <path d="M71 113 L75 125 L88 129 L75 134 L71 147 L66 134 L54 129 L66 125Z" fill="#f38b4b"/>
+  <circle cx="786" cy="73" r="11" fill="#f38b4b"/><circle cx="786" cy="73" r="4" fill="#fff8e8"/>
+  <g transform="translate(78 43) rotate(-5)">
+    <path d="M0 0H180L195 18L180 37H0L-14 18Z" fill="#f38b4b" stroke="#204983" stroke-width="3"/>
+    <text x="18" y="25" font-size="17" font-family="DejaVu Sans,Arial,sans-serif" font-weight="bold" fill="#203f77" letter-spacing="1">HELLO, WORLD!</text>
+  </g>
+  <text x="62" y="168" font-size="103" font-family="DejaVu Sans,Arial,sans-serif" font-weight="900" fill="#204983" letter-spacing="-5">IBUKI'S</text>
+  <text x="63" y="267" font-size="79" font-family="DejaVu Sans,Arial,sans-serif" font-weight="900" fill="#204983" letter-spacing="-5">PLAYGROUND</text>
+  <path d="M74 285 C245 279 440 289 720 277" stroke="#f38b4b" stroke-width="12" stroke-linecap="round" fill="none"/>
+  <text x="65" y="358" font-size="24" font-family="DejaVu Sans,Arial,sans-serif" font-weight="bold" fill="#204983">backend  /  apps  /  games  /  experiments</text>
+  <text x="65" y="384" font-size="15" font-family="DejaVu Sans,Arial,sans-serif" fill="#51739a">building useful things &amp; little surprises along the way</text>
+  <!-- Original decorative character. -->
+  <g transform="translate(882 72) rotate(5 125 145)">
+    <ellipse cx="139" cy="275" rx="125" ry="15" fill="#4e97c6" opacity=".25"/>
+    <path d="M120 19V-2" stroke="#204983" stroke-width="8" stroke-linecap="round"/>
+    <circle cx="120" cy="-7" r="13" fill="#f38b4b" stroke="#204983" stroke-width="6"/>
+    <rect x="33" y="51" width="192" height="174" rx="37" fill="#f38b4b" stroke="#204983" stroke-width="8"/>
+    <rect x="48" y="75" width="162" height="113" rx="28" fill="#fff8e8" stroke="#204983" stroke-width="6"/>
+    <ellipse cx="94" cy="117" rx="11" ry="17" fill="#204983"/>
+    <ellipse cx="165" cy="117" rx="11" ry="17" fill="#204983"/>
+    <circle cx="97" cy="112" r="4" fill="#fff8e8"/><circle cx="168" cy="112" r="4" fill="#fff8e8"/>
+    <path d="M112 151 Q133 175 154 151" fill="none" stroke="#204983" stroke-width="7" stroke-linecap="round"/>
+    <rect x="14" y="97" width="26" height="66" rx="12" fill="#204983"/><rect x="220" y="97" width="26" height="66" rx="12" fill="#204983"/>
+    <rect x="-1" y="189" width="54" height="24" rx="12" transform="rotate(-29 25 201)" fill="#204983"/>
+    <rect x="209" y="189" width="54" height="24" rx="12" transform="rotate(24 231 201)" fill="#204983"/>
+    <rect x="63" y="215" width="124" height="48" rx="19" fill="#204983"/>
+    <path d="M92 235 H113 M102 225V245" stroke="#fff8e8" stroke-width="7" stroke-linecap="round"/>
+    <circle cx="150" cy="234" r="5" fill="#f38b4b"/><circle cx="168" cy="241" r="5" fill="#92def4"/>
+    <path d="M78 259L69 282M172 259L181 282" stroke="#204983" stroke-width="13" stroke-linecap="round"/>
+  </g>
+  <path d="M1116 57L1124 82L1150 91L1124 99L1116 125L1107 99L1082 91L1107 82Z" fill="#fff8e8" stroke="#204983" stroke-width="4"/>
+  <circle cx="829" cy="301" r="20" fill="#fff8e8" stroke="#204983" stroke-width="4"/>
+  <text x="818" y="309" font-size="25" font-family="DejaVu Sans,Arial,sans-serif" font-weight="900" fill="#204983">+</text>
+</svg>

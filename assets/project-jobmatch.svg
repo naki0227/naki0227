@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="250" viewBox="0 0 560 250" role="img" aria-label="Illustrated cover art for Job Match Analysis with an eight-axis radar motif.">
+<rect width="560" height="250" rx="18" fill="#ceeff8"/>
+<g transform="translate(441 126)">
+  <g stroke="#6ba2c2" stroke-width="2" fill="none"><path d="M0 -82L58 -58L82 0L58 58L0 82L-58 58L-82 0L-58 -58Z"/><path d="M0 -49L35 -35L49 0L35 35L0 49L-35 35L-49 0L-35 -35Z"/>
+  <path d="M0 -88V88M-88 0H88M-62 -62L62 62M-62 62L62 -62"/></g>
+  <path d="M0 -68L50 -50L66 0L24 24L0 74L-43 43L-58 0L-31 -31Z" fill="#f38b4b" fill-opacity=".68" stroke="#204983" stroke-width="3"/>
+  <circle r="7" fill="#204983"/>
+</g>
+<text x="31" y="88" font-size="49" font-family="DejaVu Sans,Arial,sans-serif" font-weight="900" fill="#204983">Job Match</text>
+<text x="33" y="138" font-size="40" font-family="DejaVu Sans,Arial,sans-serif" font-weight="900" fill="#204983">Analysis</text>
+<text x="36" y="174" font-size="20" font-family="DejaVu Sans,Arial,sans-serif" fill="#204983">Make career choices visible.</text>
+<rect x="34" y="191" width="225" height="35" rx="12" fill="#204983"/>
+<text x="48" y="215" font-size="16" font-family="DejaVu Sans,Arial,sans-serif" font-weight="bold" fill="#fff8e8">React / TypeScript</text>
+</svg>
