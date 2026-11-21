@@ -13,7 +13,7 @@
 
 ### Hey, welcome in! 👋
 
-I'm **Ibuki Nagase**, a software engineer who enjoys both **building dependable systems** and **making playful products**.
+I'm **Ibuki**, a software engineer who enjoys both **building dependable systems** and **making playful products**.
 
 My main interests are Go/backend engineering, product design, and the whole journey from **finding a problem → designing → shipping → improving**. This is where I collect the things I've made and the things I'm still figuring out.
 
